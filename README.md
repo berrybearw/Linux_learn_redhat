@@ -15,6 +15,10 @@ redhat 升級
 
 接著 mount iso ， 然後到 /etc/yum.repos.d 建立一個檔案 副檔名 repo
 
+```
+mount 參考 https://github.com/berrybearw/Linux_learn_mount/blob/main/README.md
+```
+
 1. yum
 
 清理 : yum clean all  
